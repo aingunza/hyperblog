@@ -1,0 +1,10 @@
+body{
+    color: palevioletred;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div img{
+    width: 500px;
+    height: auto;
+}
