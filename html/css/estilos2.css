@@ -15,3 +15,20 @@ body{
     border: 1px solid #DDD;
     padding: 0 20px;
 }
+
+.navegacion{
+    width: 80%;
+}
+.cabecera{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.cabecera a{
+    text-decoration: none;
+    color:black;
+    border: 2px solid rgb(151, 241, 170);
+    border-radius: 5px 5px 5px 5px;
+    padding: 4px;
+}
