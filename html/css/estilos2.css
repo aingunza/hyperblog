@@ -1,0 +1,11 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.contenedor{
+    width: 70%;
+}
+
+.cabecera{
+    border: 1px solid #DDD;
+}
