@@ -1,0 +1,35 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.contenedor{
+   width: 100%;
+   display: grid;
+   place-items: center;
+}
+
+.contenido{
+    width: 80%;
+    align-items: center;
+    font-size: medium;
+    border: 1px solid #DDD;
+    padding: 0 20px;
+    margin:4px;
+}
+
+.navegacion{
+    width: 80%;
+}
+.cabecera{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.cabecera a{
+    text-decoration: none;
+    color:black;
+    border: 2px solid rgb(151, 241, 170);
+    border-radius: 5px 5px 5px 5px;
+    padding: 4px;
+}
